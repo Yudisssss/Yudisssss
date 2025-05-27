@@ -2,7 +2,9 @@
 
 ## Yudi no Baguho
 
-I'm Yudi bo Bagulho, já já monto algo bonitinho, to so arrumando os icons, e a imagem que vai ficar do lado em PNG pra ficar na quele pique, sacomené
+I'm Yudi no Bagulho, sou dev Backend|AI Dev
+Meu foco é melhorar minhas Skills para fazer do mundo um lugar melhor
+Menos Foco Mais Ansiedade.
 
 ---
 
