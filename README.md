@@ -3,6 +3,7 @@
 
 I'm Yudi bo Bagulho, já já monto algo bonitinho, to so arrumando os icons, e a imagem que vai ficar do lado em PNG pra ficar na quele pique, sacomené
 
+---
 
 #### 💻 Languages 
 
@@ -10,3 +11,12 @@ I'm Yudi bo Bagulho, já já monto algo bonitinho, to so arrumando os icons, e a
 <a href="https://www.java.com/pt-BR/"><img aligm="center" alt="Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img aligm="center" alt="Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a> 
 <a href="https://isocpp.org/"><img aligm="center" alt="C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a> 
+
+#### 🛠 Tools & Platforms
+<a href="https://archlinux.org/"><img aligm="center" alt="C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a> 
+<a href="https://nixos.org/"><img aligm="center" alt="C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /></a> 
+<a href="https://hyprland.org/"><img aligm="center" alt="C++" heigth="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTStCfpN-J9a8Y0Bptyon6wff4MNr8Sv2NhQQ&s" /></a> 
+
+---
+
+### 📚 Currently Learning
