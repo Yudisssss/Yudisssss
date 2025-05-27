@@ -15,9 +15,8 @@ I'm Yudi bo Bagulho, já já monto algo bonitinho, to so arrumando os icons, e a
 <a href="https://huggingface.co/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.png?download=true" /></a> 
 <a href="https://pypi.org/project/transformers/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" /></a> 
 <a href="https://openai.com/api/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" /></a> 
-/*
-ngrok
-*/
+<a href="https://ngrok.com/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://images.seeklogo.com/logo-png/49/2/ngrok-logo-png_seeklogo-499525.png" /></a> 
+
 
 #### ♾︎ Operating System
 <a href="https://archlinux.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a> 
