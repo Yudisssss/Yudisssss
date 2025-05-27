@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/d6/8c/5f/d68c5f920ff8e5a68a67aadaea42be19.jpg" alt="Computer illustration" width="400px" align="right" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="400px" align="right" />
 ## Yudi no Baguho
 
 I'm Yudi bo Bagulho, já já monto algo bonitinho, to so arrumando os icons, e a imagem que vai ficar do lado em PNG pra ficar na quele pique, sacomené
