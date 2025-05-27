@@ -5,6 +5,6 @@ I'm Yudi bo Bagulho, já já monto algo bonitinho, to so arrumando os icons, e a
 #### 💻 Languages 
 
 <a href="https://www.python.org/"><img aligm="center" alt="Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a> 
-<img aligm="center" alt="Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
-<img aligm="center" alt="Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
-<img aligm="center" alt="C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
+<a href="https://www.java.com/pt-BR/"><img aligm="center" alt="Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img aligm="center" alt="Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a> 
+<a href="https://isocpp.org/"><img aligm="center" alt="C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></a> 
