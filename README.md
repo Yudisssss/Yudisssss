@@ -2,8 +2,8 @@
 
 ## Yudi no Baguho
 
-I'm Yudi no Bagulho, sou dev Backend|AI Dev\n
-Meu foco é melhorar minhas Skills para fazer do mundo um lugar melhor\n
+I'm Yudi no Bagulho, sou dev Backend|AI Dev  
+Meu foco é melhorar minhas Skills para fazer do mundo um lugar melhor  
 Menos Foco Mais Ansiedade.
 
 ---
