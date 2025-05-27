@@ -2,8 +2,9 @@
 ## Yudi no Baguho
 
 I'm Yudi bo Bagulho, já já monto algo bonitinho, to so arrumando os icons, e a imagem que vai ficar do lado em PNG pra ficar na quele pique, sacomené
-#### 💻 Languages   
-<img aligm="center" alt="Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+#### 💻 Languages 
+
+<a href="https://www.python.org/"><img aligm="center" alt="Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a> 
 <img aligm="center" alt="Java" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
 <img aligm="center" alt="Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 <img aligm="center" alt="C++" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
