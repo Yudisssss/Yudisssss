@@ -6,7 +6,7 @@ I'm Yudi no Bagulho, sou dev Backend|AI Dev
 Meu foco é melhorar minhas Skills para fazer do mundo um lugar melhor  
 Menos Foco Mais Ansiedade.
 
----
+
 
 #### 💻 Languages && Tools
 
