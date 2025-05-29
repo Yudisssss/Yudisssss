@@ -1,8 +1,6 @@
 <img src="https://static.vecteezy.com/system/resources/previews/010/794/340/non_2x/blue-artificial-intelligence-technology-circuit-file-free-png.png" alt="Computer illustration" width="400px" align="right" />
 
-### Yudi no Baguho
-
-Hi, i'm Yudi (SUENAGAW)!  
+### Hi, i'm Yudi (SUENAGAW)!
 
 Backend Developer & AI. 
 Focused on studying Artificial Intelligence and crafting high-performance solutions to assist the maximum number of people. 
