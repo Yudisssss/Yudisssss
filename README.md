@@ -2,9 +2,11 @@
 
 ### Yudi no Baguho
 
-I'm Yudi no Bagulho, sou dev Backend|AI Dev  
-Meu foco é melhorar minhas Skills para fazer do mundo um lugar melhor  
-Menos Foco Mais Ansiedade.
+Hi, i'm Yudi (SUENAGAW)!  
+
+Backend Developer & AI. 
+Focused on studying Artificial Intelligence and crafting high-performance solutions to assist the maximum number of people. 
+Building the future with code., de dev pragmático para outro fique com Deus!
 
 
 
