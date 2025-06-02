@@ -4,7 +4,7 @@
 
 Backend Developer & AI. 
 Focused on studying Artificial Intelligence and crafting high-performance solutions to assist the maximum number of people. 
-Building the future with code., de dev pragmático para outro fique com Deus!
+Building the future with code, de dev pragmático para outro fique com Deus!
 
 
 
