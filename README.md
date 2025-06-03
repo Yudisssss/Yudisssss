@@ -36,5 +36,13 @@ Building the future with code, de dev pragmático para outro fique com Deus!
 
 
 <!-- <a href="https://nixos.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /></a> --> 
-> 
 <!-- <a href="https://ngrok.com/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://images.icon-icons.com/3913/PNG/512/ngrok_logo_icon_248373.png" /></a> -->
+<!--
+Dia	Tópico
+1	Linux + Wayland: conceitos
+2	Instalando Hyprland
+3	Explorando o hyprland.conf
+4	Personalizando terminal, barra, menu
+5	Criando seu primeiro rice
+6	Publicando seu Git de dotfiles
+-->
