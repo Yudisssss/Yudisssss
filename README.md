@@ -22,8 +22,8 @@ Building the future with code, de dev pragmático para outro fique com Deus!
 
 #### ♾︎ Operating System
 <a href="https://archlinux.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a> 
-<!--<a href="https://hyprland.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://ewen-lbh.gallerycdn.vsassets.io/extensions/ewen-lbh/hyprland/0.1.2/1714321732225/Microsoft.VisualStudio.Services.Icons.Default" /></a>-->
 <a href="https://www.linux.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
+<!--<a href="https://hyprland.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://ewen-lbh.gallerycdn.vsassets.io/extensions/ewen-lbh/hyprland/0.1.2/1714321732225/Microsoft.VisualStudio.Services.Icons.Default" /></a>-->
 
 ---
 
