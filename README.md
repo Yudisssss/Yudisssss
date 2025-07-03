@@ -30,7 +30,6 @@ Building the future with code, de dev pragmático para outro fique com Deus!
 <a href="https://github.com/Yudisssss/API_RickEndMorth"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" /></a>
 <a href="https://www.docker.com/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
 <a href="https://openai.com/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://icons.veryicon.com/png/o/education-technology/blue-gray-solid-blend-icon/artificial-intelligence-5.png" /></a>
-<a href="https://nixos.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" /></a> 
 <a href="https://www.langchain.com/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
 
 
