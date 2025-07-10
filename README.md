@@ -18,10 +18,7 @@ Building the future with code, de dev pragmático para outro fique com Deus!
 <a href="https://pypi.org/project/transformers/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" /></a> 
 <a href="https://openai.com/api/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://img.icons8.com/ios11/512/FFFFFF/chatgpt.png" /></a> 
 
-
-#### ♾︎ Operating System
-<a href="https://archlinux.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a> 
-<!--<a href="https://hyprland.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://ewen-lbh.gallerycdn.vsassets.io/extensions/ewen-lbh/hyprland/0.1.2/1714321732225/Microsoft.VisualStudio.Services.Icons.Default" /></a>-->
+#### 💻 Tools
 
 ---
 
