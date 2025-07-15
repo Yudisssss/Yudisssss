@@ -19,7 +19,6 @@ Building the future with code, de dev pragmático para outro fique com Deus!
 <a href="https://insomnia.rest/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" /></a> 
 <a href="https://pytorch.org/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /></a> 
 <a href="https://huggingface.co/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.png?download=true" /></a> 
-<a href="https://pypi.org/project/transformers/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" /></a> 
 <a href="https://openai.com/api/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://img.icons8.com/ios11/512/FFFFFF/chatgpt.png" /></a> 
 
 ---
@@ -29,3 +28,6 @@ Building the future with code, de dev pragmático para outro fique com Deus!
 <a href="https://www.docker.com/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></a>
 <a href="https://openai.com/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://icons.veryicon.com/png/o/education-technology/blue-gray-solid-blend-icon/artificial-intelligence-5.png" /></a>
 
+<!--
+<a href="https://pypi.org/project/transformers/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" /></a> 
+-->
