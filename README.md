@@ -29,5 +29,5 @@ Building the future with code, de dev pragmático para outro fique com Deus!
 <a href="https://openai.com/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://icons.veryicon.com/png/o/education-technology/blue-gray-solid-blend-icon/artificial-intelligence-5.png" /></a>
 
 <!--
-<a href="https://pypi.org/project/transformers/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" /></a> 
+<aa href="https://pypi.org/project/transformers/"><img aligm="center" alt="C++" heigth="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" /></a> 
 -->
